@@ -1,5 +1,5 @@
 # Práctica 3 Interfaces Inteligentes
-## Adrián SUárez Tabares
+## Adrián Suárez Tabares
 
 ## Ejercicio Físicas
 
